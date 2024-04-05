@@ -1,1 +1,1 @@
-# Chest-Disease-Classification-Using-CT-Scan-Image
+# Chest-Disease-Classification-from-CT-Scan-Image
